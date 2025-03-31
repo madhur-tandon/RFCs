@@ -198,4 +198,3 @@ VictoriaMetrics was chosen over Prometheus for several key reasons:
 4. [Prometheus Instrumentation Best Practices](https://prometheus.io/docs/practices/instrumentation/)
 5. [Grafana Documentation](https://grafana.com/docs/)
 6. [Node Exporter Documentation](https://prometheus.io/docs/guides/node-exporter/)
-7. [Push vs Pull for Monitoring](https://grafana.com/blog/2023/02/08/push-vs.-pull-in-monitoring-systems-what-are-the-differences-and-which-one-should-you-choose/)
